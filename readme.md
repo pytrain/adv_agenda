@@ -5,14 +5,14 @@ __Note:__ Please ensure you have read and followed the [Setup and Requirements](
 ## Day 1: Python Best Practices
 | Time | Lecture Topic | Interactive Link | Lecturer |
 |------|---------------|------------------|----------|
-| 08:30 - 10:15 | Version Control - Git | | |
+| 08:30 - 10:15 | Version Control - Git | | Carlos |
 | 10:15 - 10:30 | Break | | |
-| 10:30 - 12:00 | Coding Standards & Documentation | | |
+| 10:30 - 12:00 | Coding Standards & Documentation | | Jules |
 | 12:00 - 13:00 | Lunch Break | | |
-| 13:00 - 14:00 | Packaging and Deployment | | |
-| 14:00 - 15:00 | List Comprehension | | |
+| 13:00 - 14:00 | Packaging and Deployment | | Jules |
+| 14:00 - 15:00 | List Comprehension | | Jules |
 | 15:00 - 15:15 | Break | | |
-| 15:15 - 17:00 | Code Optimization | | |
+| 15:15 - 17:00 | Code Optimization | | Jules |
 
 ## Day 2: OOP, Data Manipulation, and Visualization
 | Time | Lecture Topic | Interactive Link | Lecturer |
