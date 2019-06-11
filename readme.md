@@ -7,12 +7,12 @@ __Note:__ Please ensure you have read and followed the [Setup and Requirements](
 |------|---------------|------------------|----------|
 | 08:30 - 10:15 | Version Control - Git | | Carlos |
 | 10:15 - 10:30 | Break | | |
-| 10:30 - 12:00 | Coding Standards & Documentation | | Jules |
+| 10:30 - 12:00 | Coding Standards & Documentation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/blob/master/coding_standards/Python_coding_standards.ipynb)  | Jules |
 | 12:00 - 13:00 | Lunch Break | | |
 | 13:00 - 14:00 | Packaging and Deployment | | Jules |
-| 14:00 - 15:00 | List Comprehension | | Jules |
+| 14:00 - 15:00 | List Comprehension | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/blob/master/list_comprehensionl/ListComprehensions.ipynb) | Jules |
 | 15:00 - 15:15 | Break | | |
-| 15:15 - 17:00 | Code Optimization | | Jules |
+| 15:15 - 17:00 | Code Optimization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/blob/master/code_optimization/code_optimization_techniques.ipynb) | Jules |
 
 ## Day 2: OOP, Data Manipulation, and Visualization
 | Time | Lecture Topic | Interactive Link | Lecturer |
