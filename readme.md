@@ -9,8 +9,8 @@ __Note:__ Please ensure you have read and followed the [Setup and Requirements](
 | 10:15 - 10:30 | Break | | |
 | 10:30 - 12:00 | Coding Standards & Documentation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/coding_standards/blob/master/Python_coding_standards.ipynb)  | Jules |
 | 12:00 - 13:00 | Lunch Break | | |
-| 13:00 - 14:00 | Packaging and Deployment | | Jules |
-| 14:00 - 15:00 | List Comprehension | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/list_comprehensionl/blob/master/ListComprehensions.ipynb) | Jules |
+| 13:00 - 14:00 | Packaging and Deployment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/packaging_deployment/blob/master/package_development.ipynb) | Jules |
+| 14:00 - 15:00 | List Comprehension | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/list_comprehension/blob/master/ListComprehensions.ipynb) | Jules |
 | 15:00 - 15:15 | Break | | |
 | 15:15 - 17:00 | Code Optimization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/code_optimization/blob/master/code_optimization_techniques.ipynb) | Jules |
 
