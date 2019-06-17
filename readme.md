@@ -5,7 +5,7 @@ __Note:__ Please ensure you have read and followed the [Setup and Requirements](
 ## Day 1: Python Best Practices
 | Time | Lecture Topic | Interactive Link | Lecturer |
 |------|---------------|------------------|----------|
-| 08:30 - 10:15 | Version Control - Git | | Carlos |
+| 08:30 - 10:15 | Version Control - Git | [Lecture](https://github.com/pytrain/version_control/blob/master/version_control2.pdf) | Carlos |
 | 10:15 - 10:30 | Break | | |
 | 10:30 - 12:00 | Coding Standards & Documentation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/coding_standards/blob/master/Python_coding_standards.ipynb) | Bruce |
 | 12:00 - 13:00 | Lunch Break | | |
