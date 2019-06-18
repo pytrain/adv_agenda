@@ -21,7 +21,7 @@ __Note:__ Please ensure you have read and followed the [Setup and Requirements](
 | 10:15 - 10:30 | Break | | |
 | 10:30 - 12:00 | Manipulating Files (csv, Fits, etc.) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/io/blob/master/adv_io.ipynb) | Jules |
 | 12:00 - 13:00 | Lunch Break | | |
-| 13:00 - 14:45 | Advanced Visualizations | | Brent |
+| 13:00 - 14:45 | Advanced Visualizations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/viz/blob/master/adv_viz.ipynb) | Brent |
 | 14:45 - 15:00 | Break | | |
 | 15:00 - 16:45 | Parallel Processing with Dask | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/dask/blob/master/dask.ipynb) | Brent |
 | 16:45 - 17:15 | Feedback & Questions | | |
