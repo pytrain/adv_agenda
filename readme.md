@@ -19,7 +19,7 @@ __Note:__ Please ensure you have read and followed the [Setup and Requirements](
 |------|---------------|------------------|----------|
 | 08:30 - 10:15 | Object-Oriented Programming | | Carlos |
 | 10:15 - 10:30 | Break | | |
-| 10:30 - 12:00 | Manipulating Files (csv, Fits, etc.) | | Jules |
+| 10:30 - 12:00 | Manipulating Files (csv, Fits, etc.) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/io/blob/master/adv_io.ipynb) | Jules |
 | 12:00 - 13:00 | Lunch Break | | |
 | 13:00 - 14:45 | Advanced Visualizations | | Brent |
 | 14:45 - 15:00 | Break | | |
