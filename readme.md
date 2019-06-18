@@ -23,5 +23,5 @@ __Note:__ Please ensure you have read and followed the [Setup and Requirements](
 | 12:00 - 13:00 | Lunch Break | | |
 | 13:00 - 14:45 | Advanced Visualizations | | Brent |
 | 14:45 - 15:00 | Break | | |
-| 15:00 - 16:45 | Parallel Processing with Dask | | Brent |
+| 15:00 - 16:45 | Parallel Processing with Dask | [![Open In Colab](https://colab.research.google.com/github/pytrain/dask/blob/master/dask.ipynb) | Brent |
 | 16:45 - 17:15 | Feedback & Questions | | |
