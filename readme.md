@@ -17,7 +17,7 @@ __Note:__ Please ensure you have read and followed the [Setup and Requirements](
 ## Day 2: OOP, Data Manipulation, and Visualization
 | Time | Lecture Topic | Interactive Link | Lecturer |
 |------|---------------|------------------|----------|
-| 08:30 - 10:15 | Object-Oriented Programming | | Carlos |
+| 08:30 - 10:15 | Object-Oriented Programming | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/object_oriented/blob/master/Python_OOP.ipynb) | Carlos |
 | 10:15 - 10:30 | Break | | |
 | 10:30 - 12:00 | Manipulating Files (csv, Fits, etc.) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/io/blob/master/adv_io.ipynb) | Jules |
 | 12:00 - 13:00 | Lunch Break | | |
